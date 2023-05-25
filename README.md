@@ -1,3 +1,10 @@
+### 2023-5-25
+
+`npx create-next-app@latest` 启动项目, 新版本路由貌似改到app下, 区分server/client组件
+
+
+---
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
